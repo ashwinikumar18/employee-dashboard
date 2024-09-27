@@ -1,3 +1,22 @@
+.dashboard {
+  padding: 20px;
+}
+
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.employee-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  width: 300px;
+}
+
+
+
 .App {
   text-align: center;
 }
